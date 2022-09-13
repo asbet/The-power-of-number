@@ -14,8 +14,6 @@ public class MainActivity extends AppCompatActivity {
    EditText enter_number;
    EditText result_number;
    TextView textView;
-    //primitive=ilkel
-    //heap=yığın =birikinti
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -51,5 +49,3 @@ public class MainActivity extends AppCompatActivity {
 
 }
 
-
-//sayıyla kendi sayıyı çarpıp tuşa basılan rakam kadar o sayıyı çarpmamımz gerekiyor
